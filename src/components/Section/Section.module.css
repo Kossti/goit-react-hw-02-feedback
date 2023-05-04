@@ -1,0 +1,12 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.title {
+    font-size: 28px;
+    font-weight: 600;
+    color: rgba(47, 47, 47, 0.731);
+    text-align: center;
+    text-transform: capitalize;
+}

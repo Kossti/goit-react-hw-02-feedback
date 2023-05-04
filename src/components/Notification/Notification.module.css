@@ -1,0 +1,7 @@
+.notificationText {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgba(47, 47, 47, 0.731);
+    text-align: center;
+    text-transform: capitalize;
+}
