@@ -10,12 +10,11 @@
     margin: 0px auto;
     text-align: center;
     padding: 2px 5px;
-    color: #1e262ff3;
+    color: rgb(104, 104, 104);
 
     border-radius: 8px;
-    box-shadow: inset 0 0 15px 0 #5d5151,
-        0 1px 3px #1c0101f3;
-    background: whitesmoke;
+    box-shadow: 0 1px 3px #1c0101f3;
+    background: rgb(148, 186, 232);
     border: 1px #5c4d4df3;
 }
 
